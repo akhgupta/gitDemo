@@ -5,3 +5,4 @@ Akhil: we are learning to rebase
 Akhil: I am in cherrypickdemo branch and saying hello
 Salis: Playing with Stash
 Akhil: Demo stash
+Salis : Deomoing git checkout 
